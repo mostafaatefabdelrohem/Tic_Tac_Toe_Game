@@ -1,4 +1,4 @@
-# Tic_toc_toy
+# Tic_tac_toe
 
 # Tic Tac Toe Game
 
